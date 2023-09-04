@@ -16,20 +16,9 @@
     <a href="https://www.npmjs.com/package/use-reacts-hooks">
        <img src="https://img.shields.io/npm/v/use-reacts-hooks.svg" alt="npm package" />
     </a>
-    <a href="https://circleci.com/gh/SamerKK0/use-reacts-hooks">
-      <img src="https://img.shields.io/circleci/project/github/SamerKK0/use-reacts-hooks/master.svg" alt="CircleCI master" />
-    </a>
-    <a href="https://www.npmjs.com/package/use-reacts-hooks">
-      <img src="https://img.shields.io/npm/dm/use-reacts-hooks.svg" alt="npm downloads" />
-    </a>
-    <a href="http://SamerKK0.github.io/use-reacts-hooks">
-      <img src="https://img.shields.io/badge/demos-🚀-yellow.svg" alt="demos" />
-    </a>
     <br />
     Collection of essential <a href="https://reactjs.org/docs/hooks-intro.html">React Hooks</a>.</em>
     <em>Port of</em> <a href="https://github.com/SamerKK0/libreact"><code>libreact</code></a>.
-    <br />
-    Translations: <a href="https://github.com/zenghongtu/use-reacts-hooks-chinese/blob/master/README.md">🇨🇳 汉语</a>
   </sup>
   <br />
   <br />
@@ -101,6 +90,7 @@
   - [`useCookie`](./docs/useCookie.md) &mdash; provides way to read, update and delete a cookie. [![][img-demo]](https://SamerKK0.github.io/use-reacts-hooks/?path=/story/side-effects-usecookie--demo)
   - [`useCopyToClipboard`](./docs/useCopyToClipboard.md) &mdash; copies text to clipboard.
   - [`useDebounce`](./docs/useDebounce.md) &mdash; debounces a function. [![][img-demo]](https://SamerKK0.github.io/use-reacts-hooks/?path=/story/side-effects-usedebounce--demo)
+  - [`useDebounceFn`](./docs/useDebounceFn.md) &mdash; debounces a function. [![][img-demo]](https://SamerKK0.github.io/use-reacts-hooks/?path=/story/side-effects-usedebounce--demo)
   - [`useError`](./docs/useError.md) &mdash; error dispatcher. [![][img-demo]](https://SamerKK0.github.io/use-reacts-hooks/?path=/story/side-effects-useerror--demo)
   - [`useFavicon`](./docs/useFavicon.md) &mdash; sets favicon of the page.
   - [`useLocalStorage`](./docs/useLocalStorage.md) &mdash; manages a value in `localStorage`.
