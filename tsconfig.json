@@ -1,18 +1,19 @@
 {
+  "include": ["src", "types"],
   "compilerOptions": {
-    "target": "es5",
-    "module": "commonjs",
     "moduleResolution": "node",
     "jsx": "react",
     "declaration": true,
     "pretty": true,
-    "rootDir": "src",
+    "rootDir": "./src",
+    "target": "ESNext",
+    "module": "esnext",
     "sourceMap": false,
-    "strict": true,
+    "strict": false,
     "esModuleInterop": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "noImplicitReturns": true,
+    "noImplicitReturns": false,
     "noImplicitAny": false,
     "noFallthroughCasesInSwitch": true,
     "outDir": "lib",
@@ -32,3 +33,5 @@
     "jest.config.*.ts"
   ]
 }
+
+
