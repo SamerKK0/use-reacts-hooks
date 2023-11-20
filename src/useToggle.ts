@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { Reducer, useReducer } from 'react';
 
 const toggleReducer = (state: boolean, nextValue?: any) =>

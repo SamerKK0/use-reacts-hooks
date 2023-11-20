@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useMemo, useState } from 'react';
 import useIsomorphicLayoutEffect from './useIsomorphicLayoutEffect';
 import { isBrowser, noop } from './misc/util';

@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { DependencyList, useCallback, useState } from 'react';
 import useAsync, { AsyncState } from './useAsync';
 

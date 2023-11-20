@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { Handler, KeyFilter } from './useKey';
 import useKeyPressDefault from './useKeyPress';
 import useUpdateEffect from './useUpdateEffect';

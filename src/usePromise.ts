@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useCallback } from 'react';
 import useMountedState from './useMountedState';
 

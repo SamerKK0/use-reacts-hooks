@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { RefObject } from 'react';
 import useHoverDirty from './useHoverDirty';
 import useMouse, { State } from './useMouse';

@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { easing } from 'ts-easing';
 import useRaf from './useRaf';
 

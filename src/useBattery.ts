@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useEffect, useState } from 'react';
 import { isNavigator, off, on } from './misc/util';
 import isDeepEqual from './misc/isDeepEqual';

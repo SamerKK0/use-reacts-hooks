@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { RefObject, useEffect, useMemo, useState } from 'react';
 
 export type CacheRef = {

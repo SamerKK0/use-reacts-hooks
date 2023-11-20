@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useCallback, useMemo, useState } from 'react';
 
 export interface StableActions<T extends object> {

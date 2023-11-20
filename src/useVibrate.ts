@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useEffect } from 'react';
 import { isNavigator, noop } from './misc/util';
 

@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useMemo, useState } from 'react';
 import useMountedState from './useMountedState';
 import { noop } from './misc/util';

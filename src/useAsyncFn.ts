@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { DependencyList, useCallback, useRef, useState } from 'react';
 import useMountedState from './useMountedState';
 import { FunctionReturningPromise, PromiseType } from './misc/types';

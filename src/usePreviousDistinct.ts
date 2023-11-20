@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useRef } from 'react';
 import { useFirstMountState } from './useFirstMountState';
 

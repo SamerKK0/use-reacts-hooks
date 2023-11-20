@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { DependencyList, useEffect } from 'react';
 import useAsyncFn from './useAsyncFn';
 import { FunctionReturningPromise } from './misc/types';

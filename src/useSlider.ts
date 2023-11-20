@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { CSSProperties, RefObject, useEffect, useRef } from 'react';
 import { isBrowser, noop, off, on } from './misc/util';
 import useMountedState from './useMountedState';

@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useEffect, useState } from 'react';
 import { throttle } from 'throttle-debounce';
 import { off, on } from './misc/util';

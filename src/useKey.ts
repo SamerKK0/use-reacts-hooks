@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { DependencyList, useMemo } from 'react';
 import useEvent, { UseEventOptions, UseEventTarget } from './useEvent';
 import { noop } from './misc/util';

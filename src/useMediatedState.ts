@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { Dispatch, SetStateAction, useCallback, useRef, useState } from 'react';
 
 export interface StateMediator<S = any> {

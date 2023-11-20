@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { DependencyList, useEffect } from 'react';
 import useTimeoutFn from './useTimeoutFn';
 

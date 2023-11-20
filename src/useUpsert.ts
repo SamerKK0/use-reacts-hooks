@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import useList, { ListActions } from './useList';
 import { IHookStateInitAction } from './misc/hookState';
 

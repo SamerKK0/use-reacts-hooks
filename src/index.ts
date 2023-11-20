@@ -16,13 +16,15 @@ export { default as useCounter } from './useCounter';
 export { default as useCss } from './useCss';
 export { default as useCustomCompareEffect } from './useCustomCompareEffect';
 export { default as useDebounce } from './useDebounce';
-export { default as useDebounceFn } from './useDebounceFn';
 export { default as useDeepCompareEffect } from './useDeepCompareEffect';
 export { default as useDefault } from './useDefault';
 export { default as useDrop } from './useDrop';
 export { default as useDropArea } from './useDropArea';
 export { default as useEffectOnce } from './useEffectOnce';
-export { default as useEnsuredForwardedRef, ensuredForwardRef } from './useEnsuredForwardedRef';
+export {
+  default as useEnsuredForwardedRef,
+  ensuredForwardRef,
+} from './useEnsuredForwardedRef';
 export { default as useEvent } from './useEvent';
 export { default as useError } from './useError';
 export { default as useFavicon } from './useFavicon';
@@ -116,3 +118,5 @@ export { useFirstMountState } from './useFirstMountState';
 export { default as useSet } from './useSet';
 export { createGlobalState } from './factory/createGlobalState';
 export { useHash } from './useHash';
+
+console.log('STARTING __');

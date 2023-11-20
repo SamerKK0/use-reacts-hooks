@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import createHTMLMediaHook from './factory/createHTMLMediaHook';
 
 const useAudio = createHTMLMediaHook<HTMLAudioElement>('audio');

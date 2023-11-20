@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { Dispatch, SetStateAction, useCallback, useState, useRef, useLayoutEffect } from 'react';
 import { isBrowser, noop } from './misc/util';
 

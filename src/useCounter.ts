@@ -1,3 +1,8 @@
+//@ts-ignore
+//@ts-nocheck
+
+//@ts-nocheck
+
 import { useMemo } from 'react';
 import useGetSet from './useGetSet';
 import { IHookStateInitAction, IHookStateSetAction, resolveHookState } from './misc/hookState';

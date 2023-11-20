@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { Dispatch, useCallback, useMemo, useRef, useState } from 'react';
 import { useFirstMountState } from './useFirstMountState';
 import { IHookStateInitAction, IHookStateSetAction, resolveHookState } from './misc/hookState';

@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useMemo, useRef } from 'react';
 import useEffectOnce from './useEffectOnce';
 

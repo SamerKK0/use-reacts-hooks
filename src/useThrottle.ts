@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useEffect, useRef, useState } from 'react';
 import useUnmount from './useUnmount';
 

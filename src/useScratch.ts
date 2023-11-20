@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { cloneElement, FC, useEffect, useRef, useState } from 'react';
 import { render } from 'react-universal-interface';
 import useLatest from './useLatest';

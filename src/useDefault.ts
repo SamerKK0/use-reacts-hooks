@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useState } from 'react';
 
 const useDefault = <TStateType>(

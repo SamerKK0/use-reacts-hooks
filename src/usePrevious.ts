@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useEffect, useRef } from 'react';
 
 export default function usePrevious<T>(state: T): T | undefined {

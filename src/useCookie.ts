@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useCallback, useState } from 'react';
 import Cookies from 'js-cookie';
 

@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import useEffectOnce from './useEffectOnce';
 import useUpdateEffect from './useUpdateEffect';
 

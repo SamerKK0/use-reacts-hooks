@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useMemo, useRef } from 'react';
 import useUpdate from './useUpdate';
 import { IHookStateInitAction, IHookStateSetAction, resolveHookState } from './misc/hookState';

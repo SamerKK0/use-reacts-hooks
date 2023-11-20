@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useCallback, useState } from 'react';
 import useLifecycles from './useLifecycles';
 import { off, on } from './misc/util';

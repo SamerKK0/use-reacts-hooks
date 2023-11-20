@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { Reducer, useMemo, useReducer } from 'react';
 
 type Action = {

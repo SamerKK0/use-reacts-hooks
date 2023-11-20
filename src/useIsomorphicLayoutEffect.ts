@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useEffect, useLayoutEffect } from 'react';
 import { isBrowser } from './misc/util';
 

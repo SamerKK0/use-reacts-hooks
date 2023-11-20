@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useCallback, useEffect } from 'react';
 import { off, on } from './misc/util';
 

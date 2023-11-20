@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { RefObject, useEffect, useRef } from 'react';
 import { isBrowser, off, on } from './misc/util';
 

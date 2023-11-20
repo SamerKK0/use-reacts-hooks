@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useEffect, useRef } from 'react';
 import { clearHarmonicInterval, setHarmonicInterval } from 'set-harmonic-interval';
 

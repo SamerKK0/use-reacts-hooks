@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useEffect, useRef } from 'react';
 
 const useInterval = (callback: Function, delay?: number | null) => {

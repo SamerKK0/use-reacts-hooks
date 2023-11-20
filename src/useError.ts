@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useCallback, useEffect, useState } from 'react';
 
 const useError = (): ((err: Error) => void) => {

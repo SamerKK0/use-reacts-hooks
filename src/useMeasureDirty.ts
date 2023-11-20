@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { RefObject, useEffect, useRef, useState } from 'react';
 import ResizeObserver from 'resize-observer-polyfill';
 

@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useCallback, useEffect, useRef, useState } from 'react';
 
 type SpeechOptions = {

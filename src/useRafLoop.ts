@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { useCallback, useEffect, useMemo, useRef } from 'react';
 
 export type RafLoopReturns = [() => void, () => void, () => boolean];

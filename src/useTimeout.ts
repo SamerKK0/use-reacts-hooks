@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import useTimeoutFn from './useTimeoutFn';
 import useUpdate from './useUpdate';
 

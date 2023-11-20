@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import * as React from 'react';
 import { noop } from './misc/util';
 

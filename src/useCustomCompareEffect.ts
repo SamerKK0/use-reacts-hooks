@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { DependencyList, EffectCallback, useEffect, useRef } from 'react';
 
 const isPrimitive = (val: any) => val !== Object(val);

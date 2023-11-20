@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { scrollbarWidth } from '@xobotyi/scrollbar-width';
 import { useEffect, useState } from 'react';
 

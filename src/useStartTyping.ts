@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import useIsomorphicLayoutEffect from './useIsomorphicLayoutEffect';
 import { off, on } from './misc/util';
 

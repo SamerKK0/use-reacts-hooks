@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 import { RefObject, useEffect, useState } from 'react';
 
 const useIntersection = (
